@@ -27,7 +27,7 @@
 <br />
 
 <!-- About Section -->
- # About me
+ # Information
  
 <p>
   <img align="right" width="350" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473jcwll5q40uhks0is2rx1r6dyb03o2dqkx791fdc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding gif" />
@@ -41,7 +41,7 @@
 <br/>
 <br/>
 
-## Use To Code
+## Coding Languages
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=blue&logo=javascript&logoColor=F0DB4F)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
