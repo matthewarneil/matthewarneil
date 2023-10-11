@@ -32,7 +32,7 @@
 <p>
 ✌️   Passionate about programming and knowledge-sharing.<br/><br/>
 ❤️   Thrive on writing code and exploring new features.<br/><br/>
-💬   Reach out for any inquiries at hello@matthewarneil.com.<br/><br/>
+💬   Reach out for any inquiries at hello@matthewarneil.com<br/><br/>
 
 </p>
 
