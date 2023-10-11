@@ -10,7 +10,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Matthew+Arneil">「 Google Me 」</a>
     <br>
-    「 I Am A Student At Congleton High School In <b>England</b> 」
+    「 I am currently studying at Congleton High School in <b>England.</b> 」
     <br>
     <br>
   </samp>
