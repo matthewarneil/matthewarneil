@@ -30,11 +30,10 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 💬 &emsp; Ask me about anything - hello@matthewarneil.com
+  <img align="right" width="350" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e473jcwll5q40uhks0is2rx1r6dyb03o2dqkx791fdc&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding gif" />
+✌️   Passionate about programming and knowledge-sharing<br/><br/>
+❤️   Thrive on writing code and exploring new features<br/><br/>
+💬   Reach out for any inquiries at hello@matthewarneil.com<br/><br/>
 
 </p>
 
